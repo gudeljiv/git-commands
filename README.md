@@ -1,4 +1,4 @@
 ﻿# git-commands
 
 Example:
-git config --global alias.COMMAND '!C:/Working/GitScripts/git-hdt.cmd'
+git config --global alias.COMMAND "!c:\Projects\git-commands\git-acp.cmd"
